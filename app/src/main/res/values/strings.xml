@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HtmlLoadEditText-master</string>
+    <string name="sentence">Today the weather was [fine], we are going to climb the [mountain].</string>
+</resources>
