@@ -29,3 +29,6 @@ rl为包裹textview的RelativeLayout布局
  ![Ring-menu](https://github.com/huang8023wei/HtmlLoadEditText-master/blob/master/IMG_0509.JPG)
  
  ![Ring-menu-active](https://github.com/huang8023wei/HtmlLoadEditText-master/blob/master/IMG_0510.JPG)
+ 
+ 具体分析请移步
+ http://blog.csdn.net/wei8023hzp/article/details/78141425
