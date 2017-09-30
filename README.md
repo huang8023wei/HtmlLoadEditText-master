@@ -25,6 +25,7 @@ rl为包裹textview的RelativeLayout布局
 3.获取每一个EditText上输入内容
 
 
- Effect drawing:
+
  ![Ring-menu](https://github.com/huang8023wei/HtmlLoadEditText-master/blob/master/IMG_0509.JPG)
+ 
  ![Ring-menu-active](https://github.com/huang8023wei/HtmlLoadEditText-master/blob/master/IMG_0510.JPG)
